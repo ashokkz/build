@@ -4,7 +4,14 @@ dear
 hai
 yugandhar welcome
 <<<<<<< HEAD
+<<<<<<< Updated upstream
 hello world
 =======
 hai welcom
 >>>>>>> second
+=======
+hai welcom
+=======
+hello world
+>>>>>>> rex
+>>>>>>> Stashed changes
